@@ -1,0 +1,4 @@
+pywin32
+pytesseract
+tesseract-ocr-data
+pillow
